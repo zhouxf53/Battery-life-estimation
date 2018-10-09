@@ -1,4 +1,4 @@
-# Neural network-based battery life prediction model
+# Neural network and support vector machine-based battery life prediction model
 ## Source
 https://www.sciencedirect.com/science/article/pii/S0026271417304894
 
