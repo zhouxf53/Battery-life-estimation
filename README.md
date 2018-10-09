@@ -10,3 +10,13 @@ With the continuous charging-discharging of the battery, it would start to ageâ€
 
 ## Algorithm description
 ![alt text](https://github.com/zhouxf53/Battery-life-estimation/blob/master/fig3.jpg)
+
+## Usage
+The program was written in both MATLAB and python, pick **either one** you like. An example of the raw data is stored in [Dropbox link](https://www.dropbox.com/s/txkvwzbc5zy3qkt/datafile.asc?dl=0). 
+
+Double check the raw data file name before run the program.
+For MATLAB, you need neural network, statistical toolboxes
+For python, you need Pandas, tensorflow, keras, scipy, and numpy.
+
+## Citation
+If this algorithm is useful for your research, please cite our paper.
