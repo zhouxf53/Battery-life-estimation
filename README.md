@@ -12,7 +12,7 @@ With the continuous charging-discharging of the battery, it would start to ageâ€
 ![alt text](https://github.com/zhouxf53/Battery-life-estimation/blob/master/fig3.jpg)
 
 ## Usage
-The program was written in both MATLAB and python, pick **either one** you like. An example of the raw data is stored in [Dropbox link](https://www.dropbox.com/s/xjxdi3e5je2c7wx/datafile.asc?dl=0). 
+The program was written in both MATLAB and python, pick **either one** you like. An example of the raw data is stored in [Dropbox link](https://www.dropbox.com/s/xjxdi3e5je2c7wx/datafile.asc?dl=0). Preprocessed data is [Dropbox link](https://www.dropbox.com/s/drc3ixl62dhml8g/Dataofbattery.mat?dl=0)
 
 Double check the raw data file name before run the program.
 - For MATLAB, you need neural network, statistical toolboxes
